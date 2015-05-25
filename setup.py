@@ -9,5 +9,5 @@ setup(
     url='https://github.com/lalstef/zhongguolib',
     license='LICENSE.txt',
     description='Useful chinese language stuff.',
-    long_description=open('README.txt').read(),
+    long_description=open('README.md').read(),
 )
