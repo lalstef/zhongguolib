@@ -5,7 +5,7 @@ setup(
     version='0.0.2',
     author='Alexander Stefanov',
     author_email='alexander.stefanov@lulin.bg',
-    packages=['zhongguolib', 'zhongguolib.test'],
+    packages=['zhongguolib'],
     url='https://github.com/lalstef/zhongguolib',
     license='LICENSE.txt',
     description='Useful chinese language stuff.',
